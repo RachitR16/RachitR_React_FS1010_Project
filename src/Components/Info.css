@@ -1,0 +1,35 @@
+.res{
+    text-align: left;
+}
+
+.name{
+    font-size: 40px;
+    color: black;
+    text-align: left;
+    font-weight: bold;
+    margin: 20px;
+    margin-left: 30%;
+}
+.tag{
+    font-size: 20px;
+    font-family: titillium;
+    color: black;
+    text-align: left;
+    font-weight: bold;
+    margin: 20px;
+    margin-left: 30%;
+    font-style: italic;
+    color: grey;
+    width: 50%;
+}
+.detail{
+    font-size: 20px;
+    color: black;
+    text-align: left;
+    font-weight: bold;
+    margin: 20px;
+    margin-left: 30%;
+    font-family: titillium;
+    width: 40%;
+
+}

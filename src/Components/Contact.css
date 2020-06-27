@@ -1,0 +1,71 @@
+.Contact{
+    /* width: 100%; */
+    height: 700px;
+    color: rgb(29, 29, 29);
+}
+    
+.inTouch{
+    font-size: 60px;
+    font-family: 'IBM Plex Serif', serif;
+    color: black;
+    background: #DE6262;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #FFB88C, #DE6262);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #FFB88C, #DE6262); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+.form{
+    position: relative;
+    width: 40%;
+    margin: auto;
+    font-family: titillium;
+    font-size: 25px;
+}
+
+.userInfo{
+    width: 100%;
+    height: 100%;
+    color: tomato;
+    outline: none;
+    border: none;
+    font-size: 30px;
+    text-align: left;
+    font-family: titillium;
+    font-weight: 100;
+    border-bottom: 1px solid black;
+    margin-top: 70px;
+}
+
+.userText{
+    width: 100%;
+    height: 100%;
+    color: tomato;
+    outline: none;
+    border: none;
+    font-size: 30px;
+    text-align: left;
+    font-family: titillium;
+    font-weight: 100;
+    border-bottom: 1px solid black;
+    border-top: 1px solid black;
+    margin-top: 70px;
+}
+
+button{
+    font-size: 22px;
+    font-family: titillium;
+    font-weight: 100;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    /* position: absolute; */
+    /* left: 0px; */
+    display: inline-block;
+}
+
+input::placeholder{
+    color: rgb(194, 194, 194);
+}
+
+textarea::placeholder{
+    color: rgb(194, 194, 194);
+}
